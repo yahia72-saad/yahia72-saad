@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yahia72-saad
 - 👀 I’m interested in sql
 - 🌱 I’m currently learning python and java
-  if u wanna a game : 100$
+  
 
 
 <!---
